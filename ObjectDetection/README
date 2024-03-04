@@ -1,0 +1,4 @@
+1.安装detecto包
+pip install detecto
+2.train.py 文件用来训练数据集
+detector.py 文件用来实时检测和返回数据
